@@ -5,10 +5,10 @@ using the `dig` command. It checks the consistency of IP addresses across
 different subnets for the domains that support ECS.
 
 * Inspired by the [NextDNS article on ECS][nextdnsecs].
-* Made for my talk on [DNS OARC 47][oarc47].
+* Made for my talk on [DNS OARC 41][oarc41].
 
 [nextdnsecs]: https://medium.com/nextdns/how-we-made-dns-both-fast-and-private-with-ecs-4970d70401e5
-[oarc47]: https://indico.dns-oarc.net/event/47/
+[oarc41]: https://indico.dns-oarc.net/event/47/
 
 ## How to use
 
